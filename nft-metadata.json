@@ -1,0 +1,19 @@
+{
+    "attributes" : [
+        {
+            "trait_type" : "hair_color",
+            "value" : "gold"
+        },
+        {
+            "trait_type" : "skin_color",
+            "value" : "brown"
+        },
+        {
+            "trait_type" : "relationship_status",
+            "value" : "taken"
+        }
+    ],
+    "description" : "The world's most adorable girlfriend",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qmdnk9ETYNtvY46aviRYZyjmExiGy9vtEtcb6ko9NdnNFH",
+    "name" : "Noodles"
+}
